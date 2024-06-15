@@ -13,7 +13,7 @@ SRC_REPO = "cnnClassifier"
 
 setuptools.setup(
     name=SRC_REPO,
-    version=__version__,
+    version=__version__,    
     author=AUTHOR_USER_NAME,
     description="A small python package for CNN app",
     long_description=long_description,
